@@ -61,7 +61,3 @@ npm build
 * [Express.js](https://expressjs.com/)
 * [MongoDB](https://www.mongodb.com/)
 * [Mongoose.js](http://mongoosejs.com/)
-
-## Authors
-
-* **Mike Schmerbeck** [Portfolio](https://www.mikeschmerbeck.com)
