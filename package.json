@@ -22,7 +22,7 @@
         "gender": "0.0.1",
         "gridfs-stream": "^1.1.1",
         "mongodb": "^2.2.33",
-        "mongoose": "^4.11.11",
+        "mongoose": "^5.7.5",
         "morgan": "^1.9.0",
         "passport": "^0.4.0",
         "passport-http": "^0.3.0"
